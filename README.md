@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋
+I am Asya! 
+I am a freshman at Bilkent University and my major is Computer Engineering.
 
 <!--
 **asyau/asyau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
