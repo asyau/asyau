@@ -29,17 +29,6 @@
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![Asya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyau&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Asya's+GitHub+Stats)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyau&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
