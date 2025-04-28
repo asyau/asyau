@@ -49,7 +49,6 @@
   <img src="https://github.com/asyau/asyau/blob/output/garden.svg" alt="GitHub Garden" />
 </div>
 
-> *Watch my GitHub contribution garden bloom every day!* 🌱🌷🌿
 
 ---
 
