@@ -1,0 +1,22 @@
+name: GitHub Garden
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day
+  workflow_dispatch: # You can also trigger it manually if needed
+
+jobs:
+  generate-garden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate garden.svg
+        uses: 1rgs/json2svg-action@main
+        with:
+          username: asyau
+          svg_path: ./output/garden.svg
+      - name: Commit garden.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "update garden"
+          add: "output/garden.svg"
