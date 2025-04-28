@@ -1,7 +1,7 @@
 # Hi there, I'm Asya! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Computer+Science+@+Bilkent+University;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=CS+@+Bilkent+University;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
