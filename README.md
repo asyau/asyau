@@ -1,66 +1,35 @@
-# Hi there, I'm Asya! 👋
+# Hi, I'm Asya 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=CS+@+Bilkent+University;Machine+Learning+Enthusiast" alt="Typing SVG" />
-</div>
+**AI/ML Engineer · Software Engineer**
 
----
+I build applied AI systems and full-stack products, with a focus on machine learning, LLM workflows, and software that solves real problems.
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 **Computer Science** undergraduate at **Bilkent University**
-- 🎯 Passionate about **Machine Learning**, **AI**, and **Software Development**
-- 🤝 Always open to exciting collaborations and new projects
+- B.S. Computer Science student at Bilkent University — expected graduation: **June 2027**
+- Interested in applied machine learning, computer vision, LLM applications, and product engineering
+- Experienced in taking projects from experimentation and model development to APIs and user-facing applications
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+- **Languages:** Python, Java, C/C++, JavaScript, TypeScript, Dart
+- **AI & Machine Learning:** PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face, LangChain, LangGraph
+- **Backend & Data:** FastAPI, Spring Boot, PostgreSQL, pgvector, Supabase, Firebase
+- **Frontend & Mobile:** React, Next.js, Flutter
+- **Tools:** Git, Docker, Jupyter, Maven
 
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Selected Projects
 
-</div>
+- [Sports Classification Lab](https://github.com/asyau/MachineLearning-SportsClassification) — Image-classification study comparing deep learning and classical ML pipelines across 100 sports.
+- [MobileAction MCP Server](https://github.com/asyau/mobile-action-mcp) — Python MCP server that connects AI clients to App Store intelligence operations.
+- [Vera](https://github.com/asyau/vera) — AI workspace for teams, built with React, TypeScript, FastAPI, PostgreSQL, and pgvector.
+- [Bilkent.io](https://github.com/asyau/bilkentio) — Full-stack platform for Bilkent University's Information Office, built with React, Spring Boot, and PostgreSQL.
 
+## Research
 
----
+- Co-authored work on deep-learning-based metal defect inspection, published at **IEEE FiCloud 2025**.
+- Co-authored work on real-time anomaly detection in Industry 4.0, published in **Springer LNCS (MobiWIS 2025)**.
 
-## My Contribution Graph
+## Contact
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asyau/asyau/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asyau/asyau/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/asyau/asyau/output/pacman-contribution-graph.svg">
-</picture>
-
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-  
-  <a href="mailto:asya.unal@ug.bilkent.edu.tr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=asyau&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
-</div>
+- Email: [asya.unal@ug.bilkent.edu.tr](mailto:asya.unal@ug.bilkent.edu.tr)
