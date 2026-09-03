@@ -30,6 +30,14 @@ I build applied AI systems and full-stack products, with a focus on machine lear
 - Co-authored work on deep-learning-based metal defect inspection, published at **IEEE FiCloud 2025**.
 - Co-authored work on real-time anomaly detection in Industry 4.0, published in **Springer LNCS (MobiWIS 2025)**.
 
+## My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asyau/asyau/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asyau/asyau/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/asyau/asyau/output/pacman-contribution-graph.svg">
+</picture>
+
 ## Contact
 
 - Email: [asya.unal@ug.bilkent.edu.tr](mailto:asya.unal@ug.bilkent.edu.tr)
