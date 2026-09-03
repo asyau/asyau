@@ -13,7 +13,7 @@ I build applied AI systems and full-stack products, with a focus on machine lear
 ## Tech Stack
 
 - **Languages:** Python, Java, C/C++, JavaScript, TypeScript, Dart
-- **AI & Machine Learning:** PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face, LangChain, LangGraph
+- **AI & Machine Learning:** scikit-learn, Hugging Face, LangChain, LangGraph
 - **Backend & Data:** FastAPI, Spring Boot, PostgreSQL, pgvector, Supabase, Firebase
 - **Frontend & Mobile:** React, Next.js, Flutter
 - **Tools:** Git, Docker, Jupyter, Maven
