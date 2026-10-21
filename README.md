@@ -7,7 +7,7 @@ I build applied AI systems and full-stack products, with a focus on machine lear
 ## About Me
 
 - B.S. Computer Science student at Bilkent University — expected graduation: **June 2027**
-- Interested in applied machine learning, computer vision, LLM applications, and product engineering
+- Interested in applied machine learning, robot learning, computer vision, LLM applications, and product engineering
 - Experienced in taking projects from experimentation and model development to APIs and user-facing applications
 
 ## Research
@@ -26,3 +26,5 @@ I build applied AI systems and full-stack products, with a focus on machine lear
 ## Contact
 
 - Email: [asya.unal@ug.bilkent.edu.tr](mailto:asya.unal@ug.bilkent.edu.tr)
+- LinkedIn: [linkedin.com/in/asya-unal](https://www.linkedin.com/in/asya-unal/)
+- Google Scholar: [Asya Ünal](https://scholar.google.com/citations?user=vsQfWp0AAAAJ&hl=en)
